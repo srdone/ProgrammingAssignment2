@@ -1,3 +1,8 @@
+## The formulas that follow are nearly identical to the ones
+## provided in the course example. I only modified the names
+## of the objects and change the mean() function to
+## the solve() function and add comments.
+
 ## These two functions, identical to the fuctions makeVector and
 ## cachemean provided in the example but with different names,
 ## are used together to cache the value of the inverse of a matrix
